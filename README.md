@@ -1,12 +1,10 @@
 ## Hi there 👋
 
-My name is Vlad and
+My name is **Vlad** and
 - 💰 I’m currently working as Data Scientist in Raiffeisen Bank
 - 🌱 I’m currently studying for a Master's degree in [Quantitative Finance at WU Wien](https://www.wu.ac.at/en/programs/masters-programs/quantitative-finance/overview) (world top-14 in this field)
 - 👯 I’m looking to collaborate on Data Science and Machine Learning projects, especially in the banking sector
-- 📫 How to reach me:
-  - email: vladislav.rubanoff1@gmail.com
-  - tg: https://t.me/rubanoww  
+- 📫 You can contact me where you saw the link to this GitHub profile
 <!--
 **VladRub1/VladRub1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
